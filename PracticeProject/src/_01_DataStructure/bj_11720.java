@@ -3,7 +3,7 @@ package _01_DataStructure;
 import java.io.*;
 import java.util.*;
 
-public class bj_11720 {
+public class bj_11720 {	//수의 합 구하기
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
