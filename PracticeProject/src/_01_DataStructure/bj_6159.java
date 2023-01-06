@@ -3,7 +3,7 @@ package _01_DataStructure;
 import java.io.*;
 import java.util.Arrays;
 
-public class bj_6159 {
+public class bj_6159 {	//브루트포스 알고리즘 + 투 포인터 + 정렬
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
