@@ -2,7 +2,7 @@ package _01_DataStructure;
 
 import java.io.*;
 
-public class bj_24390 {
+public class bj_24390 {	//그리디 알고리즘
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		String[] input = br.readLine().split(":");
