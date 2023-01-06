@@ -3,7 +3,7 @@ package _01_DataStructure;
 import java.io.*;
 import java.util.ArrayList;
 
-public class bj_11659 {
+public class bj_11659 {	//구간 합 구하기
 	public static void main(String[] args) throws IOException{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
