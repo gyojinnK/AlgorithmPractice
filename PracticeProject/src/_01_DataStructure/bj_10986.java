@@ -2,7 +2,7 @@ package _01_DataStructure;
 
 import java.io.*;
 
-public class bj_10986 {
+public class bj_10986 { //나머지의 합을 구하는 문제 + 구간 합
 	public static void main(String[] args) {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
