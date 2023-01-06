@@ -2,7 +2,7 @@ package _01_DataStructure;
 
 import java.io.*;
 
-public class bj_2018 {
+public class bj_2018 {	//연속된 자연수의 합 구하기 + 투 포인터
 	public static void main(String[] args) {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
